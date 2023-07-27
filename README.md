@@ -1,13 +1,10 @@
-# This list is used by git-shortlog to fix a few botched name translations
-# in the git archive, either because the author's full name was messed up
-# and/or not always written the same way, making contributions from the
-# same person appearing not to be so or badly displayed. Also allows for
-# old email addresses to map to new email addresses.
+#### This list is used by git-shortlog to fix a few botched name translations
+####  in the git archive, either because the author's full name was messed up
+#### and/or not always written the same way, making contributions from the
+#### same person appearing not to be so or badly displayed. Also allows for
+####  old email addresses to map to new email addresses.
 #
-# For format details, see "MAPPING AUTHORS" in "man git-shortlog".
-#
-# Please keep this list dictionary sorted.
-#
+ 
 Aaron Durbin <adurbin@google.com>
 Abel Vesa <abelvesa@kernel.org> <abel.vesa@nxp.com>
 Abel Vesa <abelvesa@kernel.org> <abelvesa@gmail.com>
